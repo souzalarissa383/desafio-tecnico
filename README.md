@@ -69,7 +69,7 @@ Para completar este teste, você deve concentrar-se principalmente em três arqu
 
 ## Como Executar
 
-1. Clone o repositório: `git clone <URL_DO_REPOSITORIO>`
+1. Clone o repositório: `git clone https://github.com/souzalarissa383/desafio-tecnico`
 2. Instale as dependências: `yarn install`
 3. Para instalar o projeto, execute o script `./install.sh` 
 4. Inicie a aplicação: `yarn start`
@@ -92,10 +92,6 @@ Para completar este teste, você deve concentrar-se principalmente em três arqu
 7. O serviço deve ser modular e facilmente extensível para futuras atualizações e adições de funcionalidades.
 
 Certifique-se de que todos os critérios de aceite são atendidos durante o desenvolvimento do projeto.
-
-## Autor
-
-Desenvolvido por Larissa Souza
 
 ## Licença
 
